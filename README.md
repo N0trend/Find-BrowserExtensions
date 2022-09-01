@@ -1,7 +1,7 @@
 # Find-BrowserExtensions
 Browser Extension Discovery with optional CRXcavator report
 
-This Powershell module was created to gather Chrome, Edge and Firefox browser extension details on a remote or local machine.
+This Powershell module was created to gather Chrome, Edge and Firefox browser extension details on a remote or local windows machine.
 
 Can be used to find indicators of malicious (or overly permissioned) browser extensions on remote or local machines. Could also be leveraged to take advantage of a vulnerability within the extension based on report. The crxCavator report functionality expands on vulnerability and permission details.
 
