@@ -15,9 +15,9 @@ Sample config file in this repo to copy and use.
 Import:
 
 ```
-PS C:\> git clone https://github.com/...
-PS C:\> Import-Module .\\Find-BrowsersExtensions.psm1
-PS C:\> Find-BrowserExtensions
+PS C:\> git clone https://github.com/N0trend/Find-BrowserExtensions.git
+PS C:\> Import-Module .\Find-BrowsersExtensions.psm1
+PS C:\> Find-BrowserExtensions -ComputerName localhost
 ```
 
 Straight to console:
