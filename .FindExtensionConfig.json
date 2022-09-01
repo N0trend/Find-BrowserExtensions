@@ -1,0 +1,19 @@
+{
+  "_Description": [
+    "This JSON config is for ignoring Extension Ids",
+	"And for storing the crxCavatorApiKey",
+	"By Default reads from: $env:USERPROFILE"
+  ],
+  "Chrome": {
+    "ExtensionId": ["aapocclcgogkmnckokdopfmhonfmgoek","aohghmighlieiainnegkcijnfilokake"]
+  },
+  "Edge": {
+    "ExtensionId": ["aapocclcgogkmnckokdopfmhonfmgoek","aohghmighlieiainnegkcijnfilokake"]
+  },
+  "Firefox": {
+	"ExtensionId": ["aapocclcgogkmnckokdopfmhonfmgoek","aohghmighlieiainnegkcijnfilokake"]
+  },
+  "crxCavatorApiKey": {
+	"Key": ["apikeygoeshere"]
+  }
+}
