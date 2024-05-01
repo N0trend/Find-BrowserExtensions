@@ -13,6 +13,9 @@
   "Firefox": {
 	"ExtensionId": ["aapocclcgogkmnckokdopfmhonfmgoek","aohghmighlieiainnegkcijnfilokake"]
   },
+  "Brave": {
+	"ExtensionId": ["aapocclcgogkmnckokdopfmhonfmgoek","aohghmighlieiainnegkcijnfilokake"]
+  },
   "crxCavatorApiKey": {
 	"Key": ["apikeygoeshere"]
   }
