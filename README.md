@@ -9,6 +9,8 @@ Note, to use the crxcavator functionality you'll need an API key in the config f
 
 Sample config file in this repo to copy and use.
 
+Supported OS: Windows 10,11
+
 ## Usage
 ### Find-BrowserExtensions 
 
